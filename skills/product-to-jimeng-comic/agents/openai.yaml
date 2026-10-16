@@ -1,0 +1,4 @@
+interface:
+  display_name: "product-to-jimeng-comic"
+  short_description: "跨品类制作商品漫剧脚本、多格分镜图与即梦提示词，先审脚本再出图"
+  default_prompt: "请使用 $product-to-jimeng-comic，根据我提供的产品资料制作商品漫剧素材包。"
